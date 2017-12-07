@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Chocolate Chimes Bell Tower Project
 
-You can use the [editor on GitHub](https://github.com/chocolatechimesbc/Bell-Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is our Github website for the Bell Tower Project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Background
 
-### Markdown
+In 1927, Charles Rogers, founder of Rogers Chocolates, passed away. To honour him, his wife Leah Rogers commissioned a set of Deagon Church chimes to be installed at St. Andrew’s Presbyterian Church. Unfortunately, due to electrical and mechanical failures the chimes had to be disabled in 1965.  We wish to restore functionality to the chimes so that everyone can once again hear their dulcet tones.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Google Drive: [link](
 
-```markdown
-Syntax highlighted code block
+Email: chocolatechimesbc@gmail.com
 
-# Header 1
-## Header 2
-### Header 3
+Brochure [link](https://drive.google.com/open?id=11n74tmg6lh5yAy_6MljfKH731P_ddt9m)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chocolatechimesbc/Bell-Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
